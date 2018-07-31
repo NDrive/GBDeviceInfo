@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "061587FB21105D3B00950AA3"
-               BuildableName = "GBDeviceInfo_iOS_Framework.framework"
+               BuildableName = "GBDeviceInfo.framework"
                BlueprintName = "GBDeviceInfo-iOS-Framework"
                ReferencedContainer = "container:GBDeviceInfo.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "061587FB21105D3B00950AA3"
-            BuildableName = "GBDeviceInfo_iOS_Framework.framework"
+            BuildableName = "GBDeviceInfo.framework"
             BlueprintName = "GBDeviceInfo-iOS-Framework"
             ReferencedContainer = "container:GBDeviceInfo.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "061587FB21105D3B00950AA3"
-            BuildableName = "GBDeviceInfo_iOS_Framework.framework"
+            BuildableName = "GBDeviceInfo.framework"
             BlueprintName = "GBDeviceInfo-iOS-Framework"
             ReferencedContainer = "container:GBDeviceInfo.xcodeproj">
          </BuildableReference>
