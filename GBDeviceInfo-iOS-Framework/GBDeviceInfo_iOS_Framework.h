@@ -14,6 +14,6 @@ FOUNDATION_EXPORT double GBDeviceInfo_iOS_FrameworkVersionNumber;
 //! Project version string for GBDeviceInfo_iOS_Framework.
 FOUNDATION_EXPORT const unsigned char GBDeviceInfo_iOS_FrameworkVersionString[];
 
-#import <GBDeviceInfo_iOS_Framework/GBDeviceInfo.h>
+#import <GBDeviceInfo_iOS_Framework/GBDeviceInfo_iOS.h>
 
 
